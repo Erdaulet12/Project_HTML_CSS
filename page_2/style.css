@@ -111,3 +111,10 @@ p::before {
         opacity: 1;
     }
 }
+
+/* Телефонное разрешение */
+@media screen and (max-width: 480px) {}
+/* Планшетное разрешение */
+@media screen and (min-width: 768px) {}
+/* Телевизор */
+@media screen and (min-width: 1024px) {}

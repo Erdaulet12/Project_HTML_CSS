@@ -292,3 +292,10 @@ a.active {
         width: 0;
     }
 }
+
+/* Телефон */
+@media screen and (max-width: 480px) {}
+/* Планшет */
+@media screen and (min-width: 768px) {}
+/* Телевизор */
+@media screen and (min-width: 1024px) {}
